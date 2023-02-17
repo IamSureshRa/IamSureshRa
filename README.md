@@ -2,10 +2,10 @@
 ---
 ### Inspiration
 
-தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்... 
+தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்... <BR>
 கற்றனைத் தூறும் அறிவு... – திருவள்ளுவர், திருக்குறள்
 
-thottanaith thooRum maNaRkaeNi maandharkkuk...
+thottanaith thooRum maNaRkaeNi maandharkkuk... <BR>
 katranaith thooRum aRivu... – Thiruvalluvar, Thirukkural
 
 ### About Me:
