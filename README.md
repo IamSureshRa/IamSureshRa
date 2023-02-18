@@ -22,7 +22,7 @@ I'm an IT Infrastructure Architect for Cloud and Datacenter. I’ve been Buildin
 - 🌱 I’m currently learning ... All of the above and containers
 - 👯 I’m looking to collaborate on ... CAF
 - 🤔 I’m looking for help with ... Contributing to Aztfmod
-- 💬 Ask me about ... CAF, Azure Virtual Desktop, Ansible
+- 💬 Ask me about ... CAF, AVD, Ansible
 - 📫 How to reach me: ... Discord Server https://discord.gg/pssVMj2
 Telegram Group https://t.me/openinternetcommunitygroup Linkedin https://www.linkedin.com/in/sureshrathinam/ Instagram https://www.instagram.com/iamsureshra/ Blog https://lxware.coom https://pages.lxware.com
 - 😄 Pronouns: ... He/Him
