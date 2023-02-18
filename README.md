@@ -16,8 +16,7 @@ katranaith thooRum aRivu... – Thiruvalluvar, Thirukkural
 
 ### About Me:
 
-I’ve been Building & Transforming IT Infrastructure for 18 Years
-Seasoned & skilled Architect for Cloud and Datacenter. Quicklearner, absorb any new technology and tailor as needed in Greenfield deployments and Transformations.
+I'm an IT Infrastructure Architect for Cloud and Datacenter. I’ve been Building & Transforming IT Infrastructure for about 18 Years. I can quickly master any new technology and tailor it as needed in Greenfield deployments and Transformations.
 
 - 🔭 I’m currently working on ... Azure, Azure DevOps, Ansible Automation Platform, Terraform, CAF, GitHub, GitHub Actions
 - 🌱 I’m currently learning ... All of the above and containers
