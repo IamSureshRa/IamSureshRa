@@ -23,8 +23,8 @@ I'm an IT Infrastructure Architect for Cloud and Datacenter. I’ve been Buildin
 - 👯 I’m looking to collaborate on ... CAF
 - 🤔 I’m looking for help with ... Contributing to Aztfmod
 - 💬 Ask me about ... CAF, AVD, Ansible
-- 📫 How to reach me: ... Discord Server https://discord.gg/pssVMj2
-Telegram Group https://t.me/openinternetcommunitygroup Linkedin https://www.linkedin.com/in/sureshrathinam/ Instagram https://www.instagram.com/iamsureshra/ Blog https://lxware.coom https://pages.lxware.com
+- 📫 How to reach me: ... [Discord Server](https://discord.gg/pssVMj2)
+[Telegram Group](https://t.me/openinternetcommunitygroup)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like Gifs and Memes, and I use them a lot in my converstations
 
